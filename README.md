@@ -8,6 +8,7 @@ Hello everyone, here is my Weather App project which I builded in unit-3 with th
 - Search any city and get weather.
 - Get weather for next 7 days.
 - Get weather data by live location.
+- Responsive layout.
 
 
 ## Tech Stack
@@ -16,6 +17,7 @@ In this project we used following tech stacks:-
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 
 ## Connect with author
