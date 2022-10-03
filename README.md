@@ -11,6 +11,16 @@ Hello everyone, here is my Weather App project which I builded in unit-3 with th
 - Responsive layout.
 
 
+## Screenshots
+
+### 1. Search Results
+![Search Results](./assets/homeOnePage.png)
+### 2. Seven Days Weather Data
+![Seven Days Weather Data](./assets/homeTwoPage.png)
+### 3. Get Live Location
+![Get Live Location](./assets/liveLocationPage.png)
+
+
 ## Tech Stack
 
 In this project we used following tech stacks:- 

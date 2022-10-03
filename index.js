@@ -98,7 +98,7 @@ async function weeklyData(latitude, longitude) {
     let day = document.createElement("h2");
     day.innerText = dayOfWeek;
     let image = document.createElement("img");
-    image.src = "./weather-app.png";
+    image.src = "./assets/weather-app.png";
     let tempmax = document.createElement("p");
     tempmax.innerText = `Maximum temperature:- ${el.temp.max}°C`;
     let tempmin = document.createElement("p");
